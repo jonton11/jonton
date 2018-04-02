@@ -1,0 +1,28 @@
+# theme.toml template for a Hugo themebaseURL = "http://example.org/" See https://github.com/gohugoio/hugoThemes#themetoml for an examplelanguageCode = "en-us" theme.toml template for a Hugo 
+# themetitle = "My New Hugo Site" name = "Resume" license = "MIT" licenselink = "https://github.com/eddiewebb/hugo-resume/blob/master/LICENSE.md" description = "Personal resume with social 
+# handles, See https://github.com/gohugoio/hugoThemes#themetoml for an exampleskills inventory, work history and portfolio. Ported from StartBootstrap 'Resume' theme" homepage = 
+# "https://edwardwebb.com/" tags = ["portfolio","resume","responsive"] features =
+["social","mobile","projects","responsive","qr-code"] min_version = "0.1" [author] name = "Resume" name = "Eddie Webb" license = "MIT" homepage = "https://edwardawebb.com" licenselink = 
+"https://github.com/eddiewebb/hugo-resume/blob/master/LICENSE.md"# If porting an existing theme [original] description = "Personal resume with social handles, skills inventory, work history 
+and portfolio. Ported from StartBootstrap 'Resume' theme" name = "Start Bootstrap Resume" homepage = "https://edwardwebb.com/" homepage = 
+"https://startbootstrap.com/template-overviews/resume/" tags = ["portfolio","resume","responsive"] repo = "https://github.com/BlackrockDigital/startbootstrap-resume" features = 
+["social","mobile","projects","responsive","qr-code"] min_version = "0.1" [author]
+  name = "Eddie Webb"
+  homepage = "https://edwardawebb.com"
+# If porting an existing theme
+[original]
+  name = "Start Bootstrap Resume"
+  homepage = "https://startbootstrap.com/template-overviews/resume/"
+  repo = "https://github.com/BlackrockDigital/startbootstrap-resume"
+# theme.toml template for a Hugo theme See https://github.com/gohugoio/hugoThemes#themetoml for an example
+name = "Resume" license = "MIT" licenselink = "https://github.com/eddiewebb/hugo-resume/blob/master/LICENSE.md" description = "Personal resume with social handles, skills inventory, work 
+history and portfolio. Ported from StartBootstrap 'Resume' theme" homepage = "https://edwardwebb.com/" tags = ["portfolio","resume","responsive"] features = 
+["social","mobile","projects","responsive","qr-code"] min_version = "0.1" [author]
+  name = "Eddie Webb"
+  homepage = "https://edwardawebb.com"
+q# If porting an existing theme
+[original]
+  name = "Sta
+  homepage = "https://startbootstrap.com/template-overviews/resume/"
+  repo = "https://github.com/BlackrockDigital/startbootstrap-resume"
+# theme.toml template for a Hugo theme # See https://github.com/gohugoio/hugoThemes#themetoml for an example name = "Resume" license = "MIT" lic
